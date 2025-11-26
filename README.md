@@ -73,6 +73,26 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/9aae64b7-4047-4cd1-bffa-3426c02ce074)
 
+### OVERVIEW PAGE
+
+![Uploading Overview Page.gif…]()
+
+### REVENUE PAGE
+
+![Uploading Revenue Page.gif…]()
+
+### RIDER PAGE
+
+![Uploading Rider Page.gif…]()
+
+
+### VEHICLE PAGE
+
+![Uploading Vehicle Page.gif…]()
+
+
+
+
 ### 🧮 Key DAX Measures
 #### Some highlighted measures:
 - [x] Total Trips
@@ -142,7 +162,7 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 - [x] Build dedicated corridors between heavy pickup-drop pairs
 
 
-###🎯 Expected Impact
+### 🎯 Expected Impact
 - [x]  Up to 19% revenue increase
 - [x]  11K more completed rides
 - [x]  Higher customer retention
