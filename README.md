@@ -185,6 +185,7 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 - [x] Skilled at communicating insights and recommendations effectively, supporting data-driven decision-making.
 
 
+#### Adopted a color palette for consistency throughout the dashboard (https://coolors.co/palette/139a43-66d17f-0dab76-d19c1d-fe5f55) 
 
 ###  🔗 Connect & Collaborate
 - [x] Analyst: Soumyadeep Dhar
