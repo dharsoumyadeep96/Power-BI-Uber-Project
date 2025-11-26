@@ -1,4 +1,4 @@
-## 🚖 UBER Mobility & Ride-Hailing Analytics
+# 🚖 UBER Mobility & Ride-Hailing Analytics
 
 <img width="3000" height="1042" alt="1659761100uber-logo-png" src="https://github.com/user-attachments/assets/53f07d44-3190-4811-bf30-4fdd5fafb93b" />
 
