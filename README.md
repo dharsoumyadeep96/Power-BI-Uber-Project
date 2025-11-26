@@ -75,22 +75,22 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 
 ### OVERVIEW PAGE
 
-![Uploading Overview Page.gif…]()
+![Overview Page](https://github.com/user-attachments/assets/0778245d-c29e-445c-8ee7-496c972705d3)
+
 
 ### REVENUE PAGE
 
-![Uploading Revenue Page.gif…]()
+![Revenue Page](https://github.com/user-attachments/assets/708f93ec-a2d8-4f6d-aa57-a746048c28cc)
+
 
 ### RIDER PAGE
 
-![Uploading Rider Page.gif…]()
+![Rider Page](https://github.com/user-attachments/assets/1b314d6c-9a75-4d17-b782-e3aefb681f23)
 
 
 ### VEHICLE PAGE
 
-![Uploading Vehicle Page.gif…]()
-
-
+![Vehicle Page](https://github.com/user-attachments/assets/9bd29ed5-76a1-4be5-9917-45d0a1a97346)
 
 
 ### 🧮 Key DAX Measures
