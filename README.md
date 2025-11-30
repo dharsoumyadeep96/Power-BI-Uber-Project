@@ -71,26 +71,29 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 
 ### HOME PAGE
 
-![Untitled design(1)](https://github.com/user-attachments/assets/9aae64b7-4047-4cd1-bffa-3426c02ce074)
+<img width="969" height="545" alt="Home Page " src="https://github.com/user-attachments/assets/54f0be15-09a1-495a-b470-ba8ab8b6d4b8" />
+
 
 ### OVERVIEW PAGE
 
-![Overview Page](https://github.com/user-attachments/assets/0778245d-c29e-445c-8ee7-496c972705d3)
+<img width="983" height="549" alt="Overview Page" src="https://github.com/user-attachments/assets/9d11fde3-1b99-4d6c-b02f-59fe854b4e5b" />
+
 
 
 ### REVENUE PAGE
 
-![Revenue Page](https://github.com/user-attachments/assets/708f93ec-a2d8-4f6d-aa57-a746048c28cc)
+<img width="979" height="556" alt="Revenue Page" src="https://github.com/user-attachments/assets/6307c470-3976-46b6-8ecd-3c1c8a24b876" />
 
 
 ### RIDER PAGE
 
-![Rider Page](https://github.com/user-attachments/assets/1b314d6c-9a75-4d17-b782-e3aefb681f23)
+<img width="981" height="561" alt="Rider Page" src="https://github.com/user-attachments/assets/1f3b1850-b45c-4bc2-9c23-b7c863118545" />
+
 
 
 ### VEHICLE PAGE
 
-![Vehicle Page](https://github.com/user-attachments/assets/9bd29ed5-76a1-4be5-9917-45d0a1a97346)
+<img width="987" height="563" alt="Vehicle Page" src="https://github.com/user-attachments/assets/b5d32c95-263b-427b-a4f6-3abfa30a4573" />
 
 
 ### 🧮 Key DAX Measures
