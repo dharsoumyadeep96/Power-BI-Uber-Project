@@ -79,7 +79,6 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 <img width="983" height="549" alt="Overview Page" src="https://github.com/user-attachments/assets/9d11fde3-1b99-4d6c-b02f-59fe854b4e5b" />
 
 
-
 ### REVENUE PAGE
 
 <img width="979" height="556" alt="Revenue Page" src="https://github.com/user-attachments/assets/6307c470-3976-46b6-8ecd-3c1c8a24b876" />
@@ -90,10 +89,15 @@ Uber is a global mobility platform that uses real-time technology to connect dri
 <img width="981" height="561" alt="Rider Page" src="https://github.com/user-attachments/assets/1f3b1850-b45c-4bc2-9c23-b7c863118545" />
 
 
-
 ### VEHICLE PAGE
 
 <img width="987" height="563" alt="Vehicle Page" src="https://github.com/user-attachments/assets/b5d32c95-263b-427b-a4f6-3abfa30a4573" />
+
+
+### LOCATION PAGE
+
+<img width="982" height="568" alt="Location Page" src="https://github.com/user-attachments/assets/d9da9c91-26db-4b73-81c8-20fa5cddb985" />
+
 
 
 ### 🧮 Key DAX Measures
