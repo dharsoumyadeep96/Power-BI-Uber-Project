@@ -5,7 +5,7 @@
 
 ### 🚀 Interative Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiZDllMTViYWEtNDY1Zi00MzMyLWEyY2UtMjVkODBkZTgzNzg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiN2NjMjZkMmMtZWZmMi00Y2NkLWFlM2MtYjVlNWM3MDFkODE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 This repository includes a comprehensive end-to-end Power BI analysis of Uber's business performance. The project converts unprocessed ride-level data into useful insights about operations, revenue, consumer behavior, geographic trends, and strategic suggestions.
 
